@@ -10,6 +10,10 @@ $danger: #E5446D;
 $light: #f2f2f2;
 $dark: #181853;
 
+$navbar-light: #E65E78;
+$navbar-dark: #E65E78;
+
+
 $body-bg-color: light;
 $hover: #A04ADD;
 
@@ -57,6 +61,9 @@ h5 {
 h6 {
     font-size: 1rem;
 }
+
+
+
 
 
 @import "../node_modules/bootstrap/scss/bootstrap";
